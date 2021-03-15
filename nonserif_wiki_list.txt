@@ -1,0 +1,116 @@
+Agency FB
+Akzidenz-Grotesk
+Andalé Sans
+Antique Olive
+Arial
+Arial Unicode MS
+Avant Garde Gothic
+Avenir
+Bank Gothic
+Bauhaus
+Bell Centennial
+Bell Gothic
+Benguiat Gothic
+Berlin Sans
+Brandon Grotesque
+Calibri
+Casey
+Century Gothic*
+Charcoal (Mac OS 9 system font)
+Chicago (pre-Mac OS 8 system font, still included with macOS)
+Clearview
+Comic Sans
+Compacta
+Corbel
+DejaVu Sans
+DIN
+Dotum
+Droid Sans
+Dyslexie (designed to mitigate some of the issues that dyslexics experience when reading)
+Ecofont
+Eras
+Esseltub
+Espy Sans
+Eurocrat
+Eurostile
+Square 721
+FF Dax
+FF Meta*
+FF Scala Sans
+Fira Sans
+Fira Mono
+Fira Code
+Fira Go
+Folio
+Franklin Gothic*
+FreeSans
+Frutiger
+Futura
+Geneva (one of the original Macintosh system fonts)
+Gill Sans*
+Gill Sans Schoolbook
+Gotham*
+Haettenschweiler
+Handel Gothic
+Hei
+Helvetica
+Helvetica Neue
+Swiss 721
+Highway Gothic
+IBM Plex Sans*
+Impact
+Industria
+Interstate
+Johnston/New Johnston
+Kabel
+Klavika
+Lato
+Liberation Sans
+Linux Biolinum
+Lucida Sans*
+Lucida Grande*
+Lucida Sans Unicode*
+Lydian
+Meiryo
+Meta
+Microgramma
+Modern (vector font included with Windows 2.1)
+Motorway (used on British motorway signs for route numbers)
+MS Sans Serif (included with all Microsoft Windows versions, superseded by Arial)
+Myriad*
+Neutraface
+Neuzeit S
+News Gothic
+Nimbus Sans L
+Nordstern
+Open Sans
+Optima
+Overpass
+Parisine (used by the RATP Group on their jurisdictions of Paris's transit system)
+Product Sans
+Proxima Nova
+PT Sans (made for all minority languages of Russian Federation)
+Rail Alphabet
+Roboto
+Rotis Sans
+San Francisco (sans-serif typeface) (default typeface in iOS 9 and above and OS X El Capitan and above)
+Segoe UI
+Skia (the first QuickDraw GX font, still found in macOS today)
+Source Sans Pro
+Sweden Sans
+Syntax
+System (Windows 3.x default)
+Tahoma
+Template Gothic
+Thesis Sans*
+Tiresias
+Trade Gothic
+Transport (used on British road signs)
+Trebuchet MS
+Twentieth Century (Tw Cen MT)
+Ubuntu
+Unica
+Univers
+Zurich
+Vera Sans
+Verdana
